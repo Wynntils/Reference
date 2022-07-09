@@ -1,0 +1,48 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wynntils.com/schemas/places.schema.json",
+  "title": "Places",
+  "description": "Named locations in Wynncraft",
+  "type": "object",
+  "properties": {
+    "labels": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "layer": {
+            "description": "The relative importance of this place, where 1 is a Province and 3 is a Town",
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 3
+          },
+          "level": {
+            "description": "The recommended minimum combat level for visiting this place",
+            "type": "string"
+          },
+          "name": {
+            "description": "The name of the place",
+            "type": "string"
+          },
+          "x": {
+            "description": "The x coordinate of the place",
+            "type": "integer"
+          },
+          "z": {
+            "description": "The z coordinate of the place",
+            "type": "integer"
+          }
+        },
+        "required": [
+          "layer",
+          "name",
+          "x",
+          "z"
+        ]
+      }
+    }
+  },
+  "required": [
+    "labels"
+  ]
+}
