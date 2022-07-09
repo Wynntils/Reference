@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://wynntils.com/schemas/services.schema.json",
+  "title": "Services",
+  "description": "Locations for services in Wynncraft",
+  "type": "array",
+  "items": [
+    {
+      "type": "object",
+      "properties": {
+        "type": {
+          "description": "The type of service",
+          "type": "string"
+        },
+        "locations": {
+          "type": "array",
+          "description": "A list of all locations where this service is provided",
+          "items": [
+            {
+              "type": "object",
+              "properties": {
+                "x": {
+                  "description": "The x coordinate of the location",
+                  "type": "integer"
+                },
+                "y": {
+                  "description": "The y coordinate of the location",
+                  "type": "integer"
+                },
+                "z": {
+                  "description": "The z coordinate of the location",
+                  "type": "integer"
+                }
+              },
+              "required": [
+                "x",
+                "y",
+                "z"
+              ]
+            }
+          ]
+        }
+      },
+      "required": [
+        "type",
+        "locations"
+      ]
+    }
+  ]
+}
