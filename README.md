@@ -15,3 +15,9 @@ cleaned and separated by the script
 https://github.com/Wynntils/Data-Storage/blob/master/locations/process-collected-locations.sh.
 The latest raw data used is available here:
 https://github.com/Wynntils/Data-Storage/blob/master/locations/raw/2022-07-08-by-Pyro.csv
+
+* `locations/spirits.json`: This file is based off the coordinates for lost spirits in the bonfire/spirit event.
+Collection involves checking the wiki for the current year (2022) at
+[Festival of the Bonfire](https://wynncraft.fandom.com/wiki/Festival_of_the_Bonfire_(2022))
+and preferably verifying the validity of the data. The wiki itself is not parsed due to potential for griefs as
+well as technical limitations.
