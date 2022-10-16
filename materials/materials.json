@@ -403,7 +403,7 @@
   },
   {
     "id": 111,
-    "name": "waterlily"
+    "name": "lily_pad"
   },
   {
     "id": 112,
@@ -515,7 +515,7 @@
   },
   {
     "id": 153,
-    "name": "quartz_ore"
+    "name": "nether_quartz_ore"
   },
   {
     "id": 154,
@@ -623,7 +623,17 @@
   },
   {
     "id": 175,
-    "name": "double_plant"
+    "name": "sunflower",
+    "variations": [
+      {
+        "id": 0,
+        "name": "sunflower"
+      },
+      {
+        "id": 3,
+        "name": "large_fern"
+      }
+    ]
   },
   {
     "id": 179,
@@ -1499,7 +1509,25 @@
   },
   {
     "id": 383,
-    "name": "spawn_egg"
+    "name": "wolf_spawn_egg",
+    "variations": [
+      {
+        "id": 0,
+        "name": "wolf_spawn_egg"
+      },
+      {
+        "id": 5,
+        "name": "wither_skeleton_spawn_egg"
+      },
+      {
+        "id": 58,
+        "name": "enderman_spawn_egg"
+      },
+      {
+        "id": 120,
+        "name": "villager_spawn_egg"
+      }
+    ]
   },
   {
     "id": 384,
@@ -1609,7 +1637,7 @@
   },
   {
     "id": 405,
-    "name": "netherbrick"
+    "name": "nether_brick"
   },
   {
     "id": 406,
@@ -1721,7 +1749,7 @@
   },
   {
     "id": 433,
-    "name": "chorus_fruit_popped"
+    "name": "popped_chorus_fruit"
   },
   {
     "id": 434,
