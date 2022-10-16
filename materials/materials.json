@@ -21,7 +21,33 @@
   },
   {
     "id": 6,
-    "name": "sapling"
+    "name": "oak_sapling",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "oak_sapling"
+      },
+      {
+        "metadata": 1,
+        "name": "spruce_sapling"
+      },
+      {
+        "metadata": 2,
+        "name": "acacia_sapling"
+      },
+      {
+        "metadata": 3,
+        "name": "jungle_sapling"
+      },
+      {
+        "metadata": 4,
+        "name": "birch_sapling"
+      },
+      {
+        "metadata": 5,
+        "name": "dark_oak_sapling"
+      }
+    ]
   },
   {
     "id": 7,
