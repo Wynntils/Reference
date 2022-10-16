@@ -97,7 +97,7 @@
   },
   {
     "id": 30,
-    "name": "web"
+    "name": "cobweb"
   },
   {
     "id": 31,
@@ -105,7 +105,7 @@
   },
   {
     "id": 32,
-    "name": "deadbush"
+    "name": "dead_bush"
   },
   {
     "id": 33,
@@ -113,15 +113,77 @@
   },
   {
     "id": 35,
-    "name": "wool"
+    "name": "wool",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_wool"
+      },
+      {
+        "metadata": 3,
+        "name": "light_blue_wool"
+      },
+      {
+        "metadata": 4,
+        "name": "yellow_wool"
+      },
+      {
+        "metadata": 6,
+        "name": "pink_wool"
+      },
+      {
+        "metadata": 13,
+        "name": "green_wool"
+      },
+      {
+        "metadata": 14,
+        "name": "red_wool"
+      }
+    ]
   },
   {
     "id": 37,
-    "name": "yellow_flower"
+    "name": "dandelion",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "dandelion"
+      }
+    ]
   },
   {
     "id": 38,
-    "name": "red_flower"
+    "name": "poppy",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "poppy"
+      },
+      {
+        "metadata": 1,
+        "name": "blue_orchid"
+      },
+      {
+        "metadata": 2,
+        "name": "allium"
+      },
+      {
+        "metadata": 3,
+        "name": "azure_bluet"
+      },
+      {
+        "metadata": 4,
+        "name": "red_tulip"
+      },
+      {
+        "metadata": 7,
+        "name": "pink_tulip"
+      },
+      {
+        "metadata": 8,
+        "name": "oxeye_daisy"
+      }
+    ]
   },
   {
     "id": 39,
@@ -481,7 +543,17 @@
   },
   {
     "id": 160,
-    "name": "stained_glass_pane"
+    "name": "white_stained_glass_pane",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_stained_glass_pane"
+      },
+      {
+        "metadata": 15,
+        "name": "black_stained_glass_pane"
+      }
+    ]
   },
   {
     "id": 161,
@@ -525,7 +597,17 @@
   },
   {
     "id": 171,
-    "name": "carpet"
+    "name": "white_carpet",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_carpet"
+      }, 
+        {
+        "metadata": 7,
+        "name": "gray_carpet"
+      }
+    ]
   },
   {
     "id": 172,
