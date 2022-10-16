@@ -626,11 +626,11 @@
     "name": "sunflower",
     "variations": [
       {
-        "id": 0,
+        "metadata": 0,
         "name": "sunflower"
       },
       {
-        "id": 3,
+        "metadata": 3,
         "name": "large_fern"
       }
     ]
@@ -1512,19 +1512,19 @@
     "name": "wolf_spawn_egg",
     "variations": [
       {
-        "id": 0,
+        "metadata": 0,
         "name": "wolf_spawn_egg"
       },
       {
-        "id": 5,
+        "metadata": 5,
         "name": "wither_skeleton_spawn_egg"
       },
       {
-        "id": 58,
+        "metadata": 58,
         "name": "enderman_spawn_egg"
       },
       {
-        "id": 120,
+        "metadata": 120,
         "name": "villager_spawn_egg"
       }
     ]
