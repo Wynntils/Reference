@@ -347,7 +347,7 @@
   },
   {
     "id": 80,
-    "name": "snow"
+    "name": "snow_block"
   },
   {
     "id": 81,
@@ -405,7 +405,13 @@
   },
   {
     "id": 97,
-    "name": "monster_egg"
+    "name": "monster_egg",
+    "variations": [
+      {
+        "metadata": 4,
+        "name": "infested_cracked_stone_bricks"
+      }
+    ]
   },
   {
     "id": 98,
@@ -637,7 +643,7 @@
   },
   {
     "id": 165,
-    "name": "slime"
+    "name": "slime_block"
   },
   {
     "id": 166,
@@ -797,7 +803,7 @@
   },
   {
     "id": 213,
-    "name": "magma"
+    "name": "magma_block"
   },
   {
     "id": 214,
@@ -949,11 +955,31 @@
   },
   {
     "id": 251,
-    "name": "concrete"
+    "name": "concrete",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_concrete"
+      },
+      {
+        "metadata": 15,
+        "name": "black_concrete"
+      }
+    ]
   },
   {
     "id": 252,
-    "name": "concrete_powder"
+    "name": "white_concrete_powder",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_concrete_powder"
+      },
+      {
+        "metadata": 15,
+        "name": "black_concrete_powder"
+      }
+    ]
   },
   {
     "id": 255,
@@ -1381,7 +1407,17 @@
   },
   {
     "id": 350,
-    "name": "cooked_fish"
+    "name": "cooked_cod",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "cooked_cod"
+      },
+      {
+        "metadata": 1,
+        "name": "cooked_salmon"
+      }
+    ]
   },
   {
     "id": 351,
@@ -1575,7 +1611,7 @@
   },
   {
     "id": 382,
-    "name": "speckled_melon"
+    "name": "glistering_melon_slice"
   },
   {
     "id": 383,
@@ -1695,7 +1731,7 @@
   },
   {
     "id": 402,
-    "name": "firework_charge"
+    "name": "firework_star"
   },
   {
     "id": 403,
