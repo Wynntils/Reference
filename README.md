@@ -21,3 +21,5 @@ Collection involves checking the wiki for the current year (2022) at
 [Festival of the Bonfire](https://wynncraft.fandom.com/wiki/Festival_of_the_Bonfire_(2022))
 and preferably verifying the validity of the data. The wiki itself is not parsed due to potential for griefs as
 well as technical limitations.
+
+* `materials/materials.json`: This file is a modified version of https://raw.githubusercontent.com/PrismarineJS/minecraft-data/master/data/pc/1.12/items.json. It is used to convert old material ids to the new material name system in Artemis.
