@@ -127,7 +127,21 @@
   },
   {
     "id": 31,
-    "name": "tallgrass"
+    "name": "tall_grass",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "fern"
+      },
+      {
+        "metadata": 1,
+        "name": "grass"
+      },
+      {
+        "metadata": 2,
+        "name": "fern"
+      }
+    ]
   },
   {
     "id": 32,
@@ -1295,7 +1309,13 @@
   },
   {
     "id": 338,
-    "name": "reeds"
+    "name": "sugar_cane",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "sugar_cane"
+      }
+    ]
   },
   {
     "id": 339,
