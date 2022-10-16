@@ -347,7 +347,17 @@
   },
   {
     "id": 95,
-    "name": "stained_glass"
+    "name": "white_stained_glass",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "white_stained_glass"
+      },
+      {
+        "metadata": 15,
+        "name": "black_stained_glass"
+      }
+    ]
   },
   {
     "id": 96,
@@ -359,7 +369,21 @@
   },
   {
     "id": 98,
-    "name": "stonebrick"
+    "name": "stone_bricks",
+    "variations": [
+      {
+        "metadata": 0,
+        "name": "stone_bricks"
+      },
+      {
+        "metadata": 1,
+        "name": "mossy_stone_bricks"
+      },
+      {
+        "metadata": 3,
+        "name": "chiseled_stone_bricks"
+      }
+    ]
   },
   {
     "id": 99,
