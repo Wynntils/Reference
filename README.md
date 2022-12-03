@@ -1,5 +1,5 @@
 # Reference
-Curated data storage for Artemis
+High-quality data storage for Artemis, based automatic extaction from external, reliable sources
 
 # Sources
 
