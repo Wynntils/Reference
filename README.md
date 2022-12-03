@@ -1,5 +1,5 @@
 # Reference
-High-quality data storage for Artemis, based on automatic extaction from external, reliable sources
+High-quality data storage for Artemis, based on automatic extraction from external, reliable sources
 
 # Sources
 
