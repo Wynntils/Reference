@@ -1298,6 +1298,232 @@
         ]
     },
     {
-        "category": "Grind Spots"
+        "category": "Grind Spots",
+        "locations": [
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1055,
+                    "y": 117,
+                    "z": -390
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1538,
+                    "y": 190,
+                    "z": -4563
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1155,
+                    "y": 160,
+                    "z": -4365
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -1445,
+                    "y": 72,
+                    "z": -2522
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 309,
+                    "y": 46,
+                    "z": -2029
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -829,
+                    "y": 119,
+                    "z": -5852
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -355,
+                    "y": 64,
+                    "z": -1413
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -54,
+                    "y": 66,
+                    "z": -1977
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -2147,
+                    "y": 56,
+                    "z": -4721
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 647,
+                    "y": 61,
+                    "z": -1530
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 36,
+                    "y": 20,
+                    "z": -4714
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1324,
+                    "y": 99,
+                    "z": -4267
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -571,
+                    "y": 25,
+                    "z": -595
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 753,
+                    "y": 30,
+                    "z": -1245
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -701,
+                    "y": 23,
+                    "z": -298
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -843,
+                    "y": 67,
+                    "z": -242
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -510,
+                    "y": 63,
+                    "z": -839
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -722,
+                    "y": 10,
+                    "z": -4642
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1528,
+                    "y": 231,
+                    "z": -4586
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -1175,
+                    "y": 65,
+                    "z": -5659
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -347,
+                    "y": 21,
+                    "z": -251
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -469,
+                    "y": 74,
+                    "z": -1031
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1306,
+                    "y": 85,
+                    "z": -2014
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 229,
+                    "y": 83,
+                    "z": -5061
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": -106,
+                    "y": 47,
+                    "z": -4592
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1538,
+                    "y": 88,
+                    "z": -5670
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 1413,
+                    "y": 5,
+                    "z": -4951
+                }
+            },
+            {
+                "name": "Grind Spot",
+                "coordinates": {
+                    "x": 939,
+                    "y": 65,
+                    "z": -5010
+                }
+            }
+        ]
     }
 ]
