@@ -1048,7 +1048,7 @@
         "category": "Grind Spots",
         "locations": [
             {
-                "name": "Witness Church",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1055,
                     "y": 117,
@@ -1056,7 +1056,7 @@
                 }
             },
             {
-                "name": "Frozen Fort",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1538,
                     "y": 190,
@@ -1064,7 +1064,7 @@
                 }
             },
             {
-                "name": "Angel Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1155,
                     "y": 160,
@@ -1072,7 +1072,7 @@
                 }
             },
             {
-                "name": "The Scrapyard",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -1445,
                     "y": 72,
@@ -1080,7 +1080,7 @@
                 }
             },
             {
-                "name": "Ancient Nemract",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 309,
                     "y": 46,
@@ -1088,7 +1088,7 @@
                 }
             },
             {
-                "name": "Element Temple",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -829,
                     "y": 119,
@@ -1096,7 +1096,7 @@
                 }
             },
             {
-                "name": "Zombie Tree",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -355,
                     "y": 64,
@@ -1104,7 +1104,7 @@
                 }
             },
             {
-                "name": "Mt. Wynn Spider Pit",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -54,
                     "y": 66,
@@ -1112,7 +1112,7 @@
                 }
             },
             {
-                "name": "Llevigar Spider Nest",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -2147,
                     "y": 56,
@@ -1120,7 +1120,7 @@
                 }
             },
             {
-                "name": "Mushroom Plain",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 647,
                     "y": 61,
@@ -1128,7 +1128,7 @@
                 }
             },
             {
-                "name": "Evergreen Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 36,
                     "y": 20,
@@ -1136,7 +1136,7 @@
                 }
             },
             {
-                "name": "Mirror Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1324,
                     "y": 99,
@@ -1144,7 +1144,7 @@
                 }
             },
             {
-                "name": "Defiled Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -571,
                     "y": 25,
@@ -1152,7 +1152,7 @@
                 }
             },
             {
-                "name": "Abandoned Passage",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 753,
                     "y": 30,
@@ -1160,7 +1160,7 @@
                 }
             },
             {
-                "name": "Idol Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -701,
                     "y": 23,
@@ -1168,7 +1168,7 @@
                 }
             },
             {
-                "name": "Teak Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -843,
                     "y": 67,
@@ -1176,7 +1176,7 @@
                 }
             },
             {
-                "name": "Herb Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -510,
                     "y": 63,
@@ -1184,7 +1184,7 @@
                 }
             },
             {
-                "name": "Myconid Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -722,
                     "y": 10,
@@ -1192,7 +1192,7 @@
                 }
             },
             {
-                "name": "Frozen Fort",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1528,
                     "y": 231,
@@ -1200,7 +1200,7 @@
                 }
             },
             {
-                "name": "Dullahan's Castle",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -1175,
                     "y": 65,
@@ -1208,7 +1208,7 @@
                 }
             },
             {
-                "name": "Ice Wraith Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -347,
                     "y": 21,
@@ -1216,7 +1216,7 @@
                 }
             },
             {
-                "name": "Time Valley",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -469,
                     "y": 74,
@@ -1224,7 +1224,7 @@
                 }
             },
             {
-                "name": "Desert Altar",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1306,
                     "y": 85,
@@ -1232,7 +1232,7 @@
                 }
             },
             {
-                "name": "Bandit's Base",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 229,
                     "y": 83,
@@ -1240,7 +1240,7 @@
                 }
             },
             {
-                "name": "Living Scrap Waterfall",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": -106,
                     "y": 47,
@@ -1248,7 +1248,7 @@
                 }
             },
             {
-                "name": "Basalt Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1538,
                     "y": 88,
@@ -1256,7 +1256,7 @@
                 }
             },
             {
-                "name": "Demon Cave",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 1413,
                     "y": 5,
@@ -1264,7 +1264,7 @@
                 }
             },
             {
-                "name": "Dragonling Nest",
+                "name": "Grind Spot",
                 "coordinates": {
                     "x": 939,
                     "y": 65,
