@@ -1,6 +1,6 @@
 [
     {
-        "category": "Raids",
+        "type": "Raids",
         "locations": [
             {
                 "name": "Nest of the Grootslangs",
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "category": "Dungeons",
+        "type": "Dungeons",
         "locations": [
             {
                 "name": "Decrepit Sewers",
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "category": "Rune Shrines",
+        "type": "Rune Shrines",
         "locations":[
             {
                 "name": "Uth Shrine",
@@ -152,7 +152,7 @@
         ]
     },
     {
-        "category": "Boss Altars",
+        "type": "Boss Altars",
         "locations": [
             {
                 "name": "Altar of Sanctification",

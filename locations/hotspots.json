@@ -1,6 +1,6 @@
 [    
     {
-        "category": "Caves",
+        "type": "Caves",
         "locations": [
             {
                 "name": "Cave",
@@ -1045,7 +1045,7 @@
         ]
     },
     {
-        "category": "Grind Spots",
+        "type": "Grind Spots",
         "locations": [
             {
                 "name": "Grind Spot",
