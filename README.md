@@ -33,3 +33,6 @@ and preferably verifying the validity of the data. The wiki itself is not parsed
 well as technical limitations.
 
 * `materials/materials.json`: This file is a modified version of https://raw.githubusercontent.com/PrismarineJS/minecraft-data/master/data/pc/1.12/items.json. It is used to convert old material ids to the new material name system in Artemis.
+
+
+* `lootruns/lootrun_tasks.json`: The data for this file can be collected with `LootrunBeaconLocationCollectorFeature` in Artemis. At the moment, we need to manually merge data sets provided from different people.
