@@ -35,4 +35,4 @@ well as technical limitations.
 * `materials/materials.json`: This file is a modified version of https://raw.githubusercontent.com/PrismarineJS/minecraft-data/master/data/pc/1.12/items.json. It is used to convert old material ids to the new material name system in Artemis.
 
 
-* `lootruns/lootrun_tasks.json`: The data for this file can be collected with `LootrunBeaconLocationCollectorFeature` in Artemis. At the moment, we need to manually merge data sets provided from different people.
+* `lootruns/lootrun_tasks.json`: The data for this file can be collected with `LootrunBeaconLocationCollectorFeature` in Artemis. Data is processed by the script found at `https://github.com/Wynntils/Data-Storage/blob/master/scripts/merge_lootrun_data.py`.
